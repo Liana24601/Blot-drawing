@@ -1,0 +1,18 @@
+// check out the workshop tab to get started
+// welcome to blot!
+
+// check out this guide to learn how to program in blot
+// https://blot.hackclub.com/editor?guide=start
+
+setDocDimensions(120, 120)
+
+const t = new bt.Turtle()
+// const size = 100
+
+drawLines([
+    [[58, 45], [63, 45]],
+    [[58, 45], [56, 44]],
+    [[63, 45], [65, 44]],
+    [[56, 44], [36, 55]],
+    [[65, 44], [85, 55]],
+])
