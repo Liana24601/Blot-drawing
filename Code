@@ -1,8 +1,8 @@
-// check out the workshop tab to get started
-// welcome to blot!
-https://blot.hackclub.com/editor
-// check out this guide to learn how to program in blot
-// https://blot.hackclub.com/editor?guide=start
+/*
+title: The Hackman
+author: I.K.
+snapshot
+*/
 
 setDocDimensions(120, 120)
 
